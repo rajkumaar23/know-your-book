@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Get Your Book</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Get Your Book</string>
+    <string name="nav_header_subtitle">rajkumaar2304@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_internet_connection">No Internet Connection!</string>
+    <string name="no_books">No results found!</string>
+    <string name="abtapp">Get the Book\nVersion 1.0\nCopyright &#169; 2018 Rajkumar.
+        \nUses GoogleBooksAPI.\nFor any suggestions, please contact the developer.</string>
+</resources>
